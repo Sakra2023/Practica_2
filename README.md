@@ -1,1 +1,2 @@
 Soy el mejor del mundo mundial y nadie lo puede negar
+Ahora en el proyecto agrege un nuevo archibo llamado app_1.js donde este puede hacer que el usuario ingrese un numero, y segun la cantidad ingresa me muestra la tabla de multiplicar, sea el numero que sea.
