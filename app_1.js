@@ -28,3 +28,13 @@ while (conta1<=numero2){
     }
     conta1=conta1+1
 }
+
+document.write('-------------------------------------------------------------------------------------','<br>')
+
+let frase_motivadora= prompt('Ingresa tu frase moticadora: ')
+document.write('<br>')
+document.write('<br>')
+document.write('<br>')
+
+document.write('Tu mejor frase motivadora: ','<br>')
+document.write(`${frase_motivadora}`)
