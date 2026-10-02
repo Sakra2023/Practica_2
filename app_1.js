@@ -38,3 +38,5 @@ document.write('<br>')
 
 document.write('Tu mejor frase motivadora: ','<br>')
 document.write(`${frase_motivadora}`)
+
+document.write('-------------------------------------------------------------------------------------','<br>')
