@@ -12,10 +12,11 @@ while (contador <=10){
 document.write('<br>')
 document.write('<br>')
 document.write('<br>')
+
+document.write('-------------------------------------------------------------------------------------','<br>')
 let numero2= parseInt(prompt('Ingresa el numero para saber cuantas tablas necesitas: '))
 
 let conta1=1
-
 
 while (conta1<=numero2){
     document.write(`Tabla de multiplicar del ${conta1}`,'<br>')
